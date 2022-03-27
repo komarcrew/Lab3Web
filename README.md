@@ -24,5 +24,12 @@ Persiapan membuat dokumen HTML dengan nama file <b>lab3_list.html</b> seperti be
  ![Gambar](Css4.png)<p>
   Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:<p>
  ![Gambar](Css4.0.png)<p>
- ![Gambar](Ss5.png)<p>
-   
+ ![Gambar](Ss4.png)<p>
+  ### Mengatur Margin dan Padding
+   Untuk mengatur margin dan padding pada cel data, tambahkan atribut <b>cellpadding</b> dan <b>cellspacing</b> pada tag table.<p>
+  ![Gambar](Css5.png)<p>
+  ![Gambar](Ss5.png)<p>
+  ### Menggabungkan Sel Data
+    Untuk menggabungkan sel data, gunakan atribut <b>rowspan</b> dan <b>colspan.</b> Atribut <b>rowspan</b> untuk menggabungkan baris (secara vertikal) dan <b>colspan</b> untuk menggabungkan kolom (secara horizontal).<p>
+   ![Gambar](Css6.png)<p>
+   ![Gambar](Ss6.png)<p>
