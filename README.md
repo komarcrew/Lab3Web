@@ -34,7 +34,6 @@ Persiapan membuat dokumen HTML dengan nama file <b>lab3_list.html</b> seperti be
    ![Gambar](Css6.png)<p>
    ![Gambar](Ss6.png)<p>
    ### Membuat Form<p>
-     Buat file baru dengan nama <b>lab3_form.html</b> seperti berikuut.<p>
     ![Gambar](Css7.png)<p>
    Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:<p>
-     ![Gambar](Css
+     ![Gambar](Css7.0.png)
