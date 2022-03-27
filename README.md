@@ -12,5 +12,17 @@ Persiapan membuat dokumen HTML dengan nama file <b>lab3_list.html</b> seperti be
  Kemudian masuk browser lalu refresh halaman browser.!<p>
 ![Gambar](Ss1.png)
  ### Membuat Unorderd List.
+   Kemudian tambahkan kode untuk membuat <i> Unordered List,</i> setelah deklarasi ordered list pada section unordered-list,seperti berikut.
  ![Gambar](Css2.png)
+ ![Gambar](Ss2.png)
+ ### Membuat Description List
+   Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+ ![Gambar](Css3.png)
+ ![Gambar](Ss3.png)
+ ### Membuat Tabel
+ Buat file baru dengan nama <b>lab3_tabel.html</b> seperti berikut.
+ ![Gambar](Css4.png)
+  Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:<p>
+ ![Gambar](Css4.0.png)
+ ![Gambar](Ss5.png)
    
